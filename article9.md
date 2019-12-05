@@ -8,3 +8,4 @@
 1. [WebSocket](https://learn.javascript.ru/websockets)
 1. [Подборка из 15 лучших JavaScript-фреймворков для фронтенд-разработки](https://tproger.ru/digest/top-javascript-frontend-frameworks/)
 1. [Пара двойников](http://jsraccoon.ru/exercise-double)
+1. [Lodash](https://lodash.com/)
