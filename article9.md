@@ -9,3 +9,8 @@
 1. [Подборка из 15 лучших JavaScript-фреймворков для фронтенд-разработки](https://tproger.ru/digest/top-javascript-frontend-frameworks/)
 1. [Пара двойников](http://jsraccoon.ru/exercise-double)
 1. [Lodash](https://lodash.com/)
+1. [3 Ways to clone objects in JavaScript](https://medium.com/better-programming/3-ways-to-clone-objects-in-javascript-f752d148054d)
+1. [Дескрипторы, геттеры и сеттеры свойств](https://learn.javascript.ru/descriptors-getters-setters)
+1. [Революция дата-байндинга с Object.Observe()](https://habr.com/ru/post/225065/)
+1. [Object.prototype.watch()](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/watch)
+1. [Object.observe()](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/observe)
