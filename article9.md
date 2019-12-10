@@ -14,3 +14,5 @@
 1. [Революция дата-байндинга с Object.Observe()](https://habr.com/ru/post/225065/)
 1. [Object.prototype.watch()](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/watch)
 1. [Object.observe()](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/observe)
+1. [ES6: Интерполяция](http://jsraccoon.ru/es6-interpolation)
+1. [MutationObserver](https://developer.mozilla.org/ru/docs/Web/API/MutationObserver)
