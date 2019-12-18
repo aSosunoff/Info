@@ -41,3 +41,11 @@ Gulp-imagemin - оптимизация изображений в Gulp](http://ge
 1. [Исчерпывающее руководство по составлению почтовых рассылок](https://habr.com/ru/post/227229/)
 1. [АРХИВ РАБОТ 2019](https://sawtech.ru/work/)
 1. [Базовые фишки phpStorm, которыми я пользуюсь каждый день](http://zhurov.me/blog/phpstorm-base-features.html)
+
+# NVM
+1. [Туториал по Node Version Manager (NVM)](https://ua-blog.com/%D1%82%D1%83%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB-%D0%BF%D0%BE-node-version-manager-nvm/)
+1. [Node Version Manager](https://github.com/nvm-sh/nvm)
+1. [nvm-windows](https://github.com/coreybutler/nvm-windows/releases)
+
+# NPM
+1. [Шпаргалка по пакетному менеджеру NPM](https://habr.com/ru/post/133363/)
