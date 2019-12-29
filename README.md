@@ -2,6 +2,7 @@
 
 1. [C#](article10)
 1. [JavaScript](article9.md)
+1. [TypeScript](article16.md)
 1. [Vue](article13.md)
 1. [Yii2](article11.md)
 1. [По Oracle](article5.md)
