@@ -19,6 +19,7 @@
 # Статьи
 
 1. [Иконочный шрифт Ionicons](https://ionicons.com/)
+1. [Библиотека marked](https://github.com/markedjs/marked)
 1. [Горячие клавиши Visual Studio Code](https://nikomedvedev.ru/other/vscodeshortcuts/hotkeys.html)
 1. [Шпаргалка по SOLID-принципам с примерами на PHP](https://habr.com/ru/post/208442/)
 1. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)

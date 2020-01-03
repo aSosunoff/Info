@@ -8,3 +8,5 @@
 1. [TableComponent.vue](https://github.com/spatie/vue-table-component/blob/master/src/components/TableComponent.vue)
 1. [Список псевдонимов клавиш в Vue](https://vuejs.org/v2/guide/events.html#Key-Modifiers)
 1. [Таблица с кодами клавшим](https://css-tricks.com/snippets/javascript/javascript-keycodes/#article-header-id-1)
+1. [Фильтры](https://vuejs.org/v2/api/#filters)
+    * [Filters](https://vuejs.org/v2/guide/filters.html)     
