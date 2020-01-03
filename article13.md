@@ -6,3 +6,5 @@
     * [Код отдельных глав на Git'e Эрика](https://github.com/ErikCH/VuejsInActionCode)
 1. [Основы Vue.js](https://metanit.com/web/vuejs/1.1.php)
 1. [TableComponent.vue](https://github.com/spatie/vue-table-component/blob/master/src/components/TableComponent.vue)
+1. [Список псевдонимов клавиш в Vue](https://vuejs.org/v2/guide/events.html#Key-Modifiers)
+1. [Таблица с кодами клавшим](https://css-tricks.com/snippets/javascript/javascript-keycodes/#article-header-id-1)
