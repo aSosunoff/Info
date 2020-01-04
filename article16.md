@@ -1,6 +1,7 @@
 1. [Compiler Options](https://www.typescriptlang.org/docs/handbook/compiler-options.html)
 1. [Руководство Typescript](http://typescript-lang.ru/docs/)
 1. [Введение в TypeScript](https://metanit.com/web/typescript/1.1.php)
+1. [How to think and type in TypeScript](https://areknawo.com/how-to-think-and-type-in-typescript/)
 
 # tsconfig.json
 
