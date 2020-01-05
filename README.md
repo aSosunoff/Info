@@ -10,6 +10,7 @@
 1. [Html](article15.md)
 1. [VSCode](article18.md)
 1. [Apache](article12.md)
+1. [CSS](article19.md)
 1. [По БД](article6.md)
 1. [Git](article7.md)
 1. [English](article8.md)
@@ -19,10 +20,10 @@
 
 # Статьи
 
-1. [Иконочный шрифт Ionicons](https://ionicons.com/)
 1. [Библиотека marked](https://github.com/markedjs/marked)
 1. [Шпаргалка по SOLID-принципам с примерами на PHP](https://habr.com/ru/post/208442/)
 1. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+1. [Базовый синтаксис плагина EMMET](https://dwstroy.ru/stail/plaginy-rasshireniya/emmet-shpargalka/)
 1. [Basic writing and formatting syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#quoting-text)
 1. [Вы не знаете JS (серия книг)](https://github.com/azat-io/you-dont-know-js-ru)
 1. [FastReport.Net Руководство пользователя](https://www.fastreport.ru/public_download/FRNetUserManual-ru.pdf)
@@ -30,7 +31,6 @@
 1. [Используем кеш браузера для Google PageSpeed](http://vasilenko.info/pagespeed-cache/)
 1. [
 Gulp-imagemin - оптимизация изображений в Gulp](http://gearmobile.github.io/gulp/gulp-imagemin/)
-1. [Шрифт Даниэль Карлмац](https://www.google.ru/search?q=%D0%94%D0%B0%D0%BD%D0%B8%D1%8D%D0%BB%D1%8C+%D0%9A%D0%B0%D1%80%D0%BB%D0%BC%D0%B0%D1%82%D1%86&newwindow=1&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjWhfv2wPDaAhXhApoKHd_aClYQ_AUICigB&biw=1920&bih=989)
 1. [Удивительный Angular](https://habr.com/ru/post/348818/)
 1. [Бинарный поиск](https://prog-cpp.ru/search-binary/)
 1. [Разбираем WTF задачки в JavaScript](https://habr.com/ru/post/479496/)
@@ -38,8 +38,6 @@ Gulp-imagemin - оптимизация изображений в Gulp](http://ge
 1. [Free vectors](https://all-free-download.com/)
 1. [15 правил написания качественного кода](https://tproger.ru/translations/15-rules-for-writing-quality-code/)
 1. [PhpStorm — повышаем производительность (клавиатурные сокращения). Часть 1](https://habr.com/ru/post/212077/)
-1. [How to Center an Absolutely Positioned Element Using CSS](https://www.sitepoint.com/css-center-position-absolute-div/)
-1. [ИЗУЧАЕМ CSS-ПОЗИЦИОНИРОВАНИЕ ЗА 10 ШАГОВ](http://dreamhelg.ru/2011/02/css-position-in-10-steps/)
 1. [Архив категории "Учебник"](https://softwaremaniacs.org/blog/category/primer/)
 1. [Рисуем простую иконку Mac в Adobe Illustrator](http://www.interface.ru/home.asp?artId=36070)
 1. [Исчерпывающее руководство по составлению почтовых рассылок](https://habr.com/ru/post/227229/)
