@@ -6,7 +6,7 @@
 1. [Vue](article13.md)
 1. [Axios](article17.md)
 1. [Yii2](article11.md)
-1. [По Oracle](article5.md)
+1. [Oracle](article5.md)
 1. [Html](article15.md)
 1. [VSCode](article18.md)
 1. [Apache](article12.md)
@@ -29,8 +29,7 @@
 1. [FastReport.Net Руководство пользователя](https://www.fastreport.ru/public_download/FRNetUserManual-ru.pdf)
 1. [«Хочу как Дуров»: пишем простой мессенджер](https://tproger.ru/translations/building-messenger/?utm_source=grf-eng&utm_medium=partner&utm_campaign=giraff.io)
 1. [Используем кеш браузера для Google PageSpeed](http://vasilenko.info/pagespeed-cache/)
-1. [
-Gulp-imagemin - оптимизация изображений в Gulp](http://gearmobile.github.io/gulp/gulp-imagemin/)
+1. [Gulp-imagemin - оптимизация изображений в Gulp](http://gearmobile.github.io/gulp/gulp-imagemin/)
 1. [Удивительный Angular](https://habr.com/ru/post/348818/)
 1. [Бинарный поиск](https://prog-cpp.ru/search-binary/)
 1. [Разбираем WTF задачки в JavaScript](https://habr.com/ru/post/479496/)

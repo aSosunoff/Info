@@ -5,3 +5,4 @@
 1. [Индексы](http://oracledb.ru/sql/ddl-i-obekty-sxemy/indeksy.html)
 1. [Список наиболее часто используемых системных таблиц Oracle](http://j2w.blogspot.com/2008/11/oracle.html)
 1. [Разбираем XML средствами Oracle database](https://habr.com/ru/post/129018/)
+1. [Аналитические функции Oracle PL/SQL](https://oracleplsql.ru/analytic.html)
