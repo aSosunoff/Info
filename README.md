@@ -294,6 +294,15 @@
   1. [Настройка окружения (PHPStorm, Git, OSPanel)](article4.md)
 </details>
 
+> Препроцессоры CSS
+
+<details>
+	<summary>Less</summary>
+
+  1. [Путеводитель для новичков по CSS-препроцессору Less!](https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/chapter_3/variable-interpolation.html)
+</details>
+
+
 > Разное
 
 <details>
