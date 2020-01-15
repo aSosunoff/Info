@@ -196,6 +196,16 @@
 </details>
 
 <details>
+	<summary>Bash</summary>
+
+  1. [Bash-скрипты: начало](https://habr.com/ru/company/ruvds/blog/325522/)
+  1. [How to Use sed to Find and Replace String in Files](https://linuxize.com/post/how-to-use-sed-to-find-and-replace-string-in-files/)
+  1. [Developing in WSL](https://code.visualstudio.com/docs/remote/wsl)
+  1. [Bash Debug](https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug)
+  1. [Как запустить файл .sh или Shell скрипт в Windows 10](https://itsecforu.ru/2019/07/15/%F0%9F%94%A9-%D0%BA%D0%B0%D0%BA-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B8%D1%82%D1%8C-%D1%84%D0%B0%D0%B9%D0%BB-sh-%D0%B8%D0%BB%D0%B8-shell-%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82-%D0%B2-windows-10/)
+</details>
+
+<details>
 	<summary>NVM</summary>
 
   1. [Туториал по Node Version Manager (NVM)](https://ua-blog.com/%D1%82%D1%83%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB-%D0%BF%D0%BE-node-version-manager-nvm/)
@@ -273,18 +283,6 @@
 </details>
 
 <details>
-	<summary>English</summary>
-
-  1. [Глаголы will и shall в английском языке](https://catchenglish.ru/grammatika/shall-i-will.html)
-  1. [5 простых правил порядка слов в английском](https://skyeng.ru/articles/5-prostyh-pravil-poryadka-slov-v-anglijskom)
-  1. [Порядок слов в английском языке: правила построения предложений](https://engblog.ru/construction-of-sentences)
-  1. [Разница между Past Simple и Past Continuous](https://www.start2study.ru/english-grammar/past-simple-past-continuous/)
-  1. [Present Simple vs Present Continuous – правила и отличия](https://obrazovaka.ru/english/present-simple-vs-present-continuous-pravila.html)
-  1. [Все времена глагола в английском языке](https://skyeng.ru/articles/vse-vremena-glagola-v-anglijskom-yazyke)
-  1. [Модальные глаголы](https://www.native-english.ru/grammar/modal-verbs)
-</details>
-
-<details>
 	<summary>Работа с MySQL в Visual Studio. Visual Studio 2013 Ultimate Update 5</summary>
 
   1. [Работа с MySQL в Visual Studio. Visual Studio 2013 Ultimate Update 5](article1.md)
@@ -294,6 +292,20 @@
 	<summary>Настройка окружения (PHPStorm, Git, OSPanel)</summary>
 
   1. [Настройка окружения (PHPStorm, Git, OSPanel)](article4.md)
+</details>
+
+> Разное
+
+<details>
+	<summary>English</summary>
+
+  1. [Глаголы will и shall в английском языке](https://catchenglish.ru/grammatika/shall-i-will.html)
+  1. [5 простых правил порядка слов в английском](https://skyeng.ru/articles/5-prostyh-pravil-poryadka-slov-v-anglijskom)
+  1. [Порядок слов в английском языке: правила построения предложений](https://engblog.ru/construction-of-sentences)
+  1. [Разница между Past Simple и Past Continuous](https://www.start2study.ru/english-grammar/past-simple-past-continuous/)
+  1. [Present Simple vs Present Continuous – правила и отличия](https://obrazovaka.ru/english/present-simple-vs-present-continuous-pravila.html)
+  1. [Все времена глагола в английском языке](https://skyeng.ru/articles/vse-vremena-glagola-v-anglijskom-yazyke)
+  1. [Модальные глаголы](https://www.native-english.ru/grammar/modal-verbs)
 </details>
 
 <details>
