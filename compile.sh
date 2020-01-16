@@ -1,7 +1,22 @@
 #!/usr/bin/env bash
 
-for file in articles/*.md; do
+path='articles'
+exclude_files=('bottom_article' 'article1')
+
+for file in $path/*.md; do
 	# while read line; do
+	file_name=$(echo $file | sed -E "s/.*\/([^/]+)\.md$/\1/")
+	
+	can_exclude=false
+	for ((i = 0; i < ${#exclude_files[*]}; i++)); do
+		if [[ $file_name =~ ^${exclude_files[$i]}$ ]]; then
+			can_exclude=true
+		fi
+	done
+	if $can_exclude; then
+		continue
+	fi
+	
 	number_line=1
 	echo '<details>'
 	IFS=$'\n'
@@ -32,3 +47,16 @@ for file in articles/*.md; do
 
 	echo '</details>'
 done >README.md
+
+for ((i = 0; i < ${#exclude_files[*]}; i++)); do
+	exclude_file=$path/${exclude_files[$i]}.md
+	
+	echo " " >>README.md
+	
+	IFS=$'\n'
+	for line in $(cat $exclude_file); do
+		echo $line
+	done
+
+    # printf "   %s\n" $file
+done >>README.md
