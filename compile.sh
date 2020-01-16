@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 path='articles'
-exclude_files=('bottom_article' 'article1')
+exclude_files=('bottom_article')
 
 for file in $path/*.md; do
 	# while read line; do
@@ -22,9 +22,7 @@ for file in $path/*.md; do
 	IFS=$'\n'
 	for line in $(cat $file); do
 		if [ $number_line = 1 ]; then
-			echo "	<summary>"
-			echo "	${line:2}"
-			echo "	</summary>"
+			echo "	<summary>${line:2:-1}</summary>"
 		else
 			echo $line
 		fi
