@@ -1,3 +1,29 @@
+# Статьи
+
+1. [Алгоритм генерации QR-кода](https://habr.com/ru/post/172525/)
+1. [Библиотека marked](https://github.com/markedjs/marked)
+1. [Шпаргалка по SOLID-принципам с примерами на PHP](https://habr.com/ru/post/208442/)
+1. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+1. [Базовый синтаксис плагина EMMET](https://dwstroy.ru/stail/plaginy-rasshireniya/emmet-shpargalka/)
+1. [Basic writing and formatting syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#quoting-text)
+1. [FastReport.Net Руководство пользователя](https://www.fastreport.ru/public_download/FRNetUserManual-ru.pdf)
+1. [«Хочу как Дуров»: пишем простой мессенджер](https://tproger.ru/translations/building-messenger/?utm_source=grf-eng&utm_medium=partner&utm_campaign=giraff.io)
+1. [Используем кеш браузера для Google PageSpeed](http://vasilenko.info/pagespeed-cache/)
+1. [Удивительный Angular](https://habr.com/ru/post/348818/)
+1. [Бинарный поиск](https://prog-cpp.ru/search-binary/)
+1. [hello-brand.ru - лендинг страницы](https://hello-brand.ru/)
+1. [Free vectors](https://all-free-download.com/)
+1. [15 правил написания качественного кода](https://tproger.ru/translations/15-rules-for-writing-quality-code/)
+1. [PhpStorm — повышаем производительность (клавиатурные сокращения). Часть 1](https://habr.com/ru/post/212077/)
+1. [Архив категории "Учебник"](https://softwaremaniacs.org/blog/category/primer/)
+1. [Рисуем простую иконку Mac в Adobe Illustrator](http://www.interface.ru/home.asp?artId=36070)
+1. [Исчерпывающее руководство по составлению почтовых рассылок](https://habr.com/ru/post/227229/)
+1. [АРХИВ РАБОТ 2019](https://sawtech.ru/work/)
+1. [Базовые фишки phpStorm, которыми я пользуюсь каждый день](http://zhurov.me/blog/phpstorm-base-features.html)
+
+<details>
+	<summary>Настройка окружения (PHPStorm, Git, OSPanel)</summary>
+
 1. PHPStorm
 
 2. Git
@@ -149,4 +175,4 @@ npm i babel-cli babel-core babel-preset-es2015 --save-dev
 
 $FileParentDir$/src/ --out-file $FileParentDir$/dist/$FileNameWithoutExtension$.js --presets es2015
 ```
-
+</details>

@@ -1,3 +1,5 @@
+# JavaScript
+
 1. [Создание и вызов событий](https://developer.mozilla.org/ru/docs/Web/Guide/Events/%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%B2%D1%8B%D0%B7%D0%BE%D0%B2_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B9)
 1. [Всплытие и перехват](https://learn.javascript.ru/event-bubbling)
 1. [Event.preventDefault()](https://developer.mozilla.org/ru/docs/Web/API/Event/preventDefault)
@@ -19,7 +21,6 @@
 1. [Как работает JS: WebSocket и HTTP/2+SSE. Что выбрать?](https://habr.com/ru/company/ruvds/blog/342346/)
 1. [Подборка из 15 лучших JavaScript-фреймворков для фронтенд-разработки](https://tproger.ru/digest/top-javascript-frontend-frameworks/)
 1. [ES6: Интерполяция](http://jsraccoon.ru/es6-interpolation)
-1. [Качаем изображения JavaScript](article2.md)
 1. [Работа с файлами в JavaScript, Часть 2: FileReader](https://xdan.ru/working-with-files-in-javascript-part-2-filereader.html)
 1. [15 советов по написанию самодокументируемого кода (на примере JavaScript)](https://tproger.ru/articles/15-tips-selfdoc-js/)
 1. [Выразительный JavaScript: Модули](https://habr.com/ru/post/243273/)
@@ -41,3 +42,49 @@
 
 > Node
 1. [Скринкаст по Node.js](https://learn.javascript.ru/screencast/nodejs)
+
+<details>
+	<summary>Качаем изображения JavaScript</summary>
+
+```javascript
+$.get('/', function (data) {
+  var t = data.match(/(images\/portfolio).*?.jpg/gi);
+  var a = [];
+  t.forEach(function (item, i, t) {
+    a.push('http://repnitskaya.ru/' + item);
+  });
+  a.forEach(function (item, i, a) {
+     var aTag = document.createElement("a");
+      aTag.download = item;
+      aTag.target = '_blank';
+      aTag.href = item;
+      aTag.click();
+  });
+});
+	
+(function(){
+	var block = document.getElementById('allsizes-photo'),
+		img = block.getElementsByTagName('img')[0],
+		src = img.getAttribute('src');
+		
+	var aTag = document.createElement('a');
+      aTag.download = src;
+      //aTag.target = '_blank';
+      aTag.href = src;
+	  document.body.appendChild(aTag);
+      aTag.click();
+})()
+
+(function(){
+	var img = document.getElementsByClassName('zoom-large')[0],
+		src = img.getAttribute('src');
+		
+	var aTag = document.createElement('a');
+      aTag.download = src;
+      //aTag.target = '_blank';
+      aTag.href = src;
+	  document.body.appendChild(aTag);
+      aTag.click();
+})()
+```
+</details>
