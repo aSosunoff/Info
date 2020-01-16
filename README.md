@@ -349,6 +349,7 @@
 
 # Статьи
 
+1. [Алгоритм генерации QR-кода](https://habr.com/ru/post/172525/)
 1. [Библиотека marked](https://github.com/markedjs/marked)
 1. [Шпаргалка по SOLID-принципам с примерами на PHP](https://habr.com/ru/post/208442/)
 1. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
