@@ -28,15 +28,18 @@ function can_exclude {
 
 	for ((i = 0; i < ${#exclude_files[*]}; i++)); do
 		if [[ $file_name =~ ^${exclude_files[$i]}$ ]]; then
-			can_exclude=true
+			echo true
+			exit
 		fi
 	done
+	echo false
 }
 
 
 for file in $path/*.md; do
 	# while read line; do
 	file_name=$(getFileName $file)
+	echo $file_name
 
 	if $(can_exclude $file_name); then
 		continue
