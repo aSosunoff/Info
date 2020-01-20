@@ -39,7 +39,6 @@ function can_exclude {
 for file in $path/*.md; do
 	# while read line; do
 	file_name=$(getFileName $file)
-	echo $file_name
 
 	if $(can_exclude $file_name); then
 		continue

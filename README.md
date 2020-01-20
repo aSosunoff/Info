@@ -1,17 +1,14 @@
-Apache
 <details>
 	<summary>Apache</summary>
 
 1. [Настройка кэширования через файл .htaccess](https://www.netangels.ru/support/hosting-old/htaccess-cache/)
 </details>
-Axios
 <details>
 	<summary>Axios</summary>
 
 1. [Используем Axios для доступа к API](https://ru.vuejs.org/v2/cookbook/using-axios-to-consume-apis.html)
 1. [axios](https://github.com/axios/axios)
 </details>
-Bash
 <details>
 	<summary>Bash</summary>
 
@@ -23,8 +20,6 @@ Bash
 1. [Массивы bash](https://habr.com/ru/sandbox/102954/)
 1. [Lesson 2. Bash Commands to Manage Directories and Files](https://www.earthdatascience.org/courses/intro-to-earth-data-science/open-reproducible-science/bash/bash-commands-to-manage-directories-files/)
 </details>
-bottom_article
-C#
 <details>
 	<summary>C#</summary>
 
@@ -47,7 +42,6 @@ C#
 1. [Работа с классом Task](https://metanit.com/sharp/tutorial/12.2.php)
 1. [Aсинхронное программирование](https://metanit.com/sharp/tutorial/13.3.php)
 </details>
-CSS
 <details>
 	<summary>CSS</summary>
 
@@ -58,7 +52,6 @@ CSS
 1. [ИЗУЧАЕМ CSS-ПОЗИЦИОНИРОВАНИЕ ЗА 10 ШАГОВ](http://dreamhelg.ru/2011/02/css-position-in-10-steps/)
 1. [30 CSS-фреймворков для адаптивного веб-дизайна](https://habr.com/ru/post/156747/)
 </details>
-DB
 <details>
 	<summary>По БД</summary>
 
@@ -192,7 +185,6 @@ WHERE
 ```
 </details>
 </details>
-English
 <details>
 	<summary>English</summary>
 
@@ -204,7 +196,6 @@ English
 1. [Все времена глагола в английском языке](https://skyeng.ru/articles/vse-vremena-glagola-v-anglijskom-yazyke)
 1. [Модальные глаголы](https://www.native-english.ru/grammar/modal-verbs)
 </details>
-Git
 <details>
 	<summary>Git</summary>
 
@@ -212,7 +203,6 @@ Git
 2. [Book](https://git-scm.com/book/ru/v2)
 3. [Как в Git удалить файлы из индекса, не удаляя их в рабочей директории](https://webhamster.ru/mytetrashare/index/mtb0/1518440234z6ace7z0ae)
 </details>
-Html
 <details>
 	<summary>Html</summary>
 
@@ -220,7 +210,6 @@ Html
 1. [FileSystem API&File API: разбираемся и используем](https://habr.com/ru/post/112286/)
 1. [HTML-формы. Взгляд бэкенд-разработчика](https://habr.com/ru/post/236837/)
 </details>
-JavaScript
 <details>
 	<summary>JavaScript</summary>
 
@@ -313,20 +302,17 @@ $.get('/', function (data) {
 ```
 </details>
 </details>
-Less
 <details>
 	<summary>Less</summary>
 
 1. [Путеводитель для новичков по CSS-препроцессору Less!](https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/chapter_3/variable-interpolation.html)
 </details>
-NPM
 <details>
 	<summary>NPM</summary>
 
 1. [Шпаргалка по пакетному менеджеру NPM](https://habr.com/ru/post/133363/)
 1. [Почему npm-скрипты?](http://prgssr.ru/development/pochemu-npm-skripty.html)
 </details>
-NVM
 <details>
 	<summary>NVM</summary>
 
@@ -334,7 +320,6 @@ NVM
 1. [Node Version Manager](https://github.com/nvm-sh/nvm)
 1. [nvm-windows](https://github.com/coreybutler/nvm-windows/releases)
 </details>
-Oracle
 <details>
 	<summary>Oracle</summary>
 
@@ -347,13 +332,11 @@ Oracle
 1. [Разбираем XML средствами Oracle database](https://habr.com/ru/post/129018/)
 1. [Аналитические функции Oracle PL/SQL](https://oracleplsql.ru/analytic.html)
 </details>
-Photo
 <details>
 	<summary>Фотография</summary>
 
 1. [ELENA SHUMILOVA](https://elenashumilova.smugmug.com/)
 </details>
-TypeScript
 <details>
 	<summary>TypeScript</summary>
 
@@ -435,7 +418,6 @@ TypeScript
 }
 ```
 </details>
-VisualStudio
 <details>
 	<summary>Visual Studio</summary>
 
@@ -511,7 +493,6 @@ docs.oracle.com/cd/E17952_01/refman-5.5-en/switchable-optimizations.html
 7. После этого должно всё заработать. Если нет то гуглим ответ всё равно есть.
 	некоторые предлагают установить компонент версией ниже.
 </details>
-VSCode
 <details>
 	<summary>VSCode</summary>
 
@@ -519,7 +500,6 @@ VSCode
 1. [Горячие клавиши Visual Studio Code](https://nikomedvedev.ru/other/vscodeshortcuts/hotkeys.html)
 1. [Как настроить расширение Debugger for Chrome для Visual Studio Code](https://techrocks.ru/2019/05/14/debugger-for-chrome-in-vs-code/)
 </details>
-Vue
 <details>
 	<summary>Vue</summary>
 
@@ -536,7 +516,6 @@ Vue
 1. [Фильтры](https://vuejs.org/v2/api/#filters)
 	* [Filters](https://vuejs.org/v2/guide/filters.html)
 </details>
-Yii2
 <details>
 	<summary>Yii2</summary>
 
