@@ -73,7 +73,7 @@ done >README.md
 for ((i = 0; i < ${#exclude_files[*]}; i++)); do
 	exclude_file=$path/${exclude_files[$i]}.md
 	
-	echo "" >>README.md
+	echo " " >>README.md
 	
 	IFS=$'\n'
 	for line in $(cat $exclude_file); do
