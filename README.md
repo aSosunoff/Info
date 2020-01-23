@@ -20,6 +20,7 @@
 1. [Массивы bash](https://habr.com/ru/sandbox/102954/)
 1. [Lesson 2. Bash Commands to Manage Directories and Files](https://www.earthdatascience.org/courses/intro-to-earth-data-science/open-reproducible-science/bash/bash-commands-to-manage-directories-files/)
 1. [How to Compare Strings in Bash](https://linuxize.com/post/how-to-compare-strings-in-bash/)
+1. [Sed - An Introduction and Tutorial by Bruce Barnett](https://www.grymoire.com/Unix/Sed.html#uh-37)
 </details>
 <details>
 	<summary>C#</summary>
