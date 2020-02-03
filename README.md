@@ -212,6 +212,12 @@ WHERE
 3. [Как в Git удалить файлы из индекса, не удаляя их в рабочей директории](https://webhamster.ru/mytetrashare/index/mtb0/1518440234z6ace7z0ae)
 </details>
 <details>
+	<summary>Handlebars</summary>
+
+1. [Handlebars](https://handlebarsjs.com/)
+1. [Создание собственных хелперов в Handlebars.js](https://getinstance.info/articles/tools/custom-handlebars-helpers/)
+</details>
+<details>
 	<summary>Html</summary>
 
 1. [Особенности загрузки файлов на HTML5](https://habr.com/ru/post/154097/)
@@ -567,7 +573,6 @@ docs.oracle.com/cd/E17952_01/refman-5.5-en/switchable-optimizations.html
 1. [АРХИВ РАБОТ 2019](https://sawtech.ru/work/)
 1. [Базовые фишки phpStorm, которыми я пользуюсь каждый день](http://zhurov.me/blog/phpstorm-base-features.html)
 1. [What is EJS](https://ejs.co/#install)
-1. [Handlebars](https://handlebarsjs.com/)
 
 <details>
 	<summary>Настройка окружения (PHPStorm, Git, OSPanel)</summary>

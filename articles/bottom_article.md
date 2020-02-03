@@ -21,7 +21,6 @@
 1. [АРХИВ РАБОТ 2019](https://sawtech.ru/work/)
 1. [Базовые фишки phpStorm, которыми я пользуюсь каждый день](http://zhurov.me/blog/phpstorm-base-features.html)
 1. [What is EJS](https://ejs.co/#install)
-1. [Handlebars](https://handlebarsjs.com/)
 
 <details>
 	<summary>Настройка окружения (PHPStorm, Git, OSPanel)</summary>
