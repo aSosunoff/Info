@@ -10,3 +10,4 @@
 1. [Поиск файлов с помощью find](https://www.opennet.ru/docs/RUS/linux_base/node149.html)
 1. [How to Compare Strings in Bash](https://linuxize.com/post/how-to-compare-strings-in-bash/)
 1. [Sed - An Introduction and Tutorial by Bruce Barnett](https://www.grymoire.com/Unix/Sed.html#uh-37)
+1. [Как вывести файлы директории в консоли при помощи ls BASH](http://trainingweb.ru/page/output-files-directory-in-console-using-ls-bash)

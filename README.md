@@ -22,6 +22,7 @@
 1. [Поиск файлов с помощью find](https://www.opennet.ru/docs/RUS/linux_base/node149.html)
 1. [How to Compare Strings in Bash](https://linuxize.com/post/how-to-compare-strings-in-bash/)
 1. [Sed - An Introduction and Tutorial by Bruce Barnett](https://www.grymoire.com/Unix/Sed.html#uh-37)
+1. [Как вывести файлы директории в консоли при помощи ls BASH](http://trainingweb.ru/page/output-files-directory-in-console-using-ls-bash)
 </details>
 <details>
 	<summary>C#</summary>
@@ -320,6 +321,25 @@ $.get('/', function (data) {
 	<summary>Less</summary>
 
 1. [Путеводитель для новичков по CSS-препроцессору Less!](https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/chapter_3/variable-interpolation.html)
+</details>
+<details>
+	<summary>MongoDb</summary>
+
+1. Настройка в **CMD**
+    ```    
+    > mongod --directoryperdb --dbpath C:\mongodb\data\db --logpath C:\mongodb\log\mongo.log --logappend --install
+    ```
+1. Старт
+    ```
+    > net start MongoDB
+    ```
+1. Стоп
+    ```
+    > net stop MongoDB
+    ```
+---
+
+1. [Большой туториал по MongoDB](https://medium.com/@Merrick_krg/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D1%82%D1%83%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB-%D0%BF%D0%BE-mongodb-c6f460e71a00)
 </details>
 <details>
 	<summary>NPM</summary>
