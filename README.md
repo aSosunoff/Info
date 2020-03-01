@@ -612,6 +612,12 @@ docs.oracle.com/cd/E17952_01/refman-5.5-en/switchable-optimizations.html
 1. [Базовые фишки phpStorm, которыми я пользуюсь каждый день](http://zhurov.me/blog/phpstorm-base-features.html)
 1. [What is EJS](https://ejs.co/#install)
 
+---
+
+1. [Введение в ASP.NET MVC](https://metanit.com/sharp/mvc/1.1.php)
+1. [Web API 2 в ASP.NET](https://metanit.com/sharp/aspnet_webapi/1.1.php)
+1. [Миграции модели данных](https://professorweb.ru/my/entity-framework/6/level2/2_11.php)
+
 <details>
 	<summary>Настройка окружения (PHPStorm, Git, OSPanel)</summary>
 
