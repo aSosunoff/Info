@@ -342,13 +342,9 @@ $.get('/', function (data) {
 1. [Большой туториал по MongoDB](https://medium.com/@Merrick_krg/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D1%82%D1%83%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB-%D0%BF%D0%BE-mongodb-c6f460e71a00)
 </details>
 <details>
-<<<<<<< HEAD
-	<summary> [О документации](https://js-node.ru/site/article?id=1</summary>
-=======
 	<summary>Node</summary>
 
 1. [Документации](https://js-node.ru/)
->>>>>>> 947727e82c87cf90edc5cc9ff21f5a67031c7d05
 </details>
 <details>
 	<summary>NPM</summary>
