@@ -12,3 +12,7 @@
 1. [Таблица с кодами клавшим](https://css-tricks.com/snippets/javascript/javascript-keycodes/#article-header-id-1)
 1. [Фильтры](https://vuejs.org/v2/api/#filters)
 	* [Filters](https://vuejs.org/v2/guide/filters.html)
+
+## VUEX
+
+1. [Watch for Vuex State changes!](https://dev.to/viniciuskneves/watch-for-vuex-state-changes-2mgj)
