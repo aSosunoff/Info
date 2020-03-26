@@ -569,6 +569,10 @@ docs.oracle.com/cd/E17952_01/refman-5.5-en/switchable-optimizations.html
 1. [Таблица с кодами клавшим](https://css-tricks.com/snippets/javascript/javascript-keycodes/#article-header-id-1)
 1. [Фильтры](https://vuejs.org/v2/api/#filters)
 	* [Filters](https://vuejs.org/v2/guide/filters.html)
+1. [Метаданные маршрутов](https://router.vuejs.org/ru/guide/advanced/meta.html)
+1. [Использование middleware во Vue](https://webdevblog.ru/ispolzovanie-middleware-vo-vue/)
+1. [Vue Router. Руководство по тестированию Vue-приложений](https://lmiller1990.github.io/vue-testing-handbook/ru/vue-router.html#vue-router)
+1. [How To Set Up Vue.js Authentication and Route Handling Using vue-router](https://www.digitalocean.com/community/tutorials/how-to-set-up-vue-js-authentication-and-route-handling-using-vue-router)
 
 ## VUEX
 
