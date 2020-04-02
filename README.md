@@ -342,6 +342,14 @@ $.get('/', function (data) {
 1. [Большой туториал по MongoDB](https://medium.com/@Merrick_krg/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D1%82%D1%83%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB-%D0%BF%D0%BE-mongodb-c6f460e71a00)
 </details>
 <details>
+	<summary>Ninject</summary>
+
+1. [IoC-контейнер Ninject](https://metanit.com/sharp/mvc5/21.2.php)
+1. [Введение в Dependency Injection с Ninject (.Net): Часть Вторая (Ninject)](http://80levelelf.com/Post?postId=22)
+1. [Object Scopes](https://github.com/ninject/Ninject/wiki/Object-Scopes)
+1. [Настраиваем Ninject для web api и mvc](http://calmsen.ru/nastraivaem-ninject-dlya-web-api/)
+</details>
+<details>
 	<summary>Node</summary>
 
 1. [Документации](https://js-node.ru/)
