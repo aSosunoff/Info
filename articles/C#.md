@@ -21,3 +21,4 @@
 1. [Введение в ASP.NET MVC](https://metanit.com/sharp/mvc/1.1.php)
 1. [Web API 2 в ASP.NET](https://metanit.com/sharp/aspnet_webapi/1.1.php)
 1. [Миграции модели данных](https://professorweb.ru/my/entity-framework/6/level2/2_11.php)
+1. [Введение в ASP.NET MVC 5](https://metanit.com/sharp/mvc5/1.1.php)
