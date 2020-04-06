@@ -18,3 +18,6 @@
 1. [Введение в Entity Framework](https://metanit.com/sharp/entityframework/1.1.php)
 1. [Работа с классом Task](https://metanit.com/sharp/tutorial/12.2.php)
 1. [Aсинхронное программирование](https://metanit.com/sharp/tutorial/13.3.php)
+1. [Введение в ASP.NET MVC](https://metanit.com/sharp/mvc/1.1.php)
+1. [Web API 2 в ASP.NET](https://metanit.com/sharp/aspnet_webapi/1.1.php)
+1. [Миграции модели данных](https://professorweb.ru/my/entity-framework/6/level2/2_11.php)
